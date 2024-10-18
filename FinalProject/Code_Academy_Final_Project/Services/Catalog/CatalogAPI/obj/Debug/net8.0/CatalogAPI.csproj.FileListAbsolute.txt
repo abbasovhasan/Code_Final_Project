@@ -151,3 +151,5 @@ C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\S
 C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\Services\Catalog\CatalogAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\Services\Catalog\CatalogAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\Services\Catalog\CatalogAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\Services\Catalog\CatalogAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abbas\OneDrive\Documents\Code\FinalProject\Code_Academy_Final_Project\Services\Catalog\CatalogAPI\obj\Debug\net8.0\CatalogAPI.sourcelink.json

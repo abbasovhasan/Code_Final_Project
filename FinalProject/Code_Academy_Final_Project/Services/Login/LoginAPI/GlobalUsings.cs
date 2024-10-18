@@ -1,0 +1,10 @@
+﻿global using LoginAPI.Context;
+global using LoginAPI.Services;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using FluentValidation.AspNetCore;
+global using AutoMapper;
+global using System.Text;
+global using LoginAPI.Mappers;
+global using LoginAPI.Validations;

@@ -3,192 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\persistence\\migrations\\20241016213956_initalcreate21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|solutionrelative:services\\order\\persistence\\migrations\\20241016213956_initalcreate21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\concretes\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\concretes\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\concretes\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\concretes\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\abstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\abstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\abstraction\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\abstraction\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\abstraction\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\abstraction\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\services\\concretes\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\services\\concretes\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\validations\\paymentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\validations\\paymentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\validations\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\validations\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\validations\\orderitemdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\validations\\orderitemdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\validations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\validations\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\validations\\orderdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\validations\\orderdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\migrations\\20241018221559_addroleidtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\migrations\\20241018221559_addroleidtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\migrations\\20241018220302_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\migrations\\20241018220302_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\persistence\\concretes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|solutionrelative:services\\order\\persistence\\concretes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\abstraction\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\abstraction\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\persistence\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|solutionrelative:services\\order\\persistence\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\persistence\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|solutionrelative:services\\order\\persistence\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\persistence\\context\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2894AA76-3E6D-4712-AAB0-E57E1B03C22E}|Services\\Order\\Persistence\\Persistence.csproj|solutionrelative:services\\order\\persistence\\context\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D358E8E1-8AB1-4CA7-8CC0-D31C93736B62}|Services\\Order\\Application\\Application.csproj|solutionrelative:services\\order\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|solutionrelative:services\\order\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|solutionrelative:services\\order\\domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\domain\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|solutionrelative:services\\order\\domain\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\order\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A179E633-ADD3-4575-8020-73F58541B929}|Services\\Order\\Domain\\Domain.csproj|solutionrelative:services\\order\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\domain\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|solutionrelative:services\\catalog\\domain\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|solutionrelative:services\\catalog\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\application\\abstraction\\servicesconcretes\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\abstraction\\servicesconcretes\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\application\\abstraction\\servicesconcretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\abstraction\\servicesconcretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\application\\abstraction\\services\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\abstraction\\services\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\code\\finalproject\\code_academy_final_project\\services\\login\\loginapi\\migrations\\20241018215647_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC7565-BCE4-4FCD-8D0B-E7CA885E7EE6}|Services\\Login\\LoginAPI\\LoginAPI.csproj|solutionrelative:services\\login\\loginapi\\migrations\\20241018215647_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -198,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -207,613 +103,255 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:46:11.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderItemController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\OrderItemController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Controllers\\OrderItemController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\OrderItemController.cs",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Controllers\\OrderItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:45:54.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:19:52.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\appsettings.json",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T22:17:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241018221559_AddRoleIdToUser.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018221559_AddRoleIdToUser.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Migrations\\20241018221559_AddRoleIdToUser.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018221559_AddRoleIdToUser.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Migrations\\20241018221559_AddRoleIdToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:45:33.78Z",
+              "WhenOpened": "2024-10-18T22:15:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:54:04.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:53:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:46:11.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OrderAPI",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\OrderAPI.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\OrderAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T21:37:35.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderAPI.http",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.http",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\OrderAPI.http",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.http",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\OrderAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-16T21:38:08.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T21:37:42.106Z",
-              "EditorCaption": ""
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:54:15.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Program.cs",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:37:39.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Concretes\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\PaymentService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Concretes\\PaymentService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:36:32.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\OrderItemService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Concretes\\OrderItemService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\OrderItemService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Concretes\\OrderItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:36:09.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:47:48.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\appsettings.json",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T21:12:21.682Z",
-              "EditorCaption": ""
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Models\\Role.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:52:05.538Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20241016213956_InitalCreate21.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Migrations\\20241016213956_InitalCreate21.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Persistence\\Migrations\\20241016213956_InitalCreate21.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Migrations\\20241016213956_InitalCreate21.cs",
-              "RelativeToolTip": "Services\\Order\\Persistence\\Migrations\\20241016213956_InitalCreate21.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Models\\User.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:39:57.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:51:51.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:02:42.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Abstraction\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IPaymentService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Abstraction\\IPaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:36:21.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IOrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IOrderItemService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Abstraction\\IOrderItemService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IOrderItemService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Abstraction\\IOrderItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:35:57.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\OrderService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Concretes\\OrderService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Concretes\\OrderService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Concretes\\OrderService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:35:14.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Services\\Abstraction\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Services\\Abstraction\\IOrderService.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Services\\Abstraction\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:34:56.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\PaymentDtoValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Validations\\PaymentDtoValidator.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\PaymentDtoValidator.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Validations\\PaymentDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:33:42.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderItemDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\OrderItemDtoValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Validations\\OrderItemDtoValidator.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\OrderItemDtoValidator.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Validations\\OrderItemDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:33:33.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\OrderDtoValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Validations\\OrderDtoValidator.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Validations\\OrderDtoValidator.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Validations\\OrderDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:33:20.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:32:53.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:07:04.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "PaymentDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\PaymentDto.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\DTOs\\PaymentDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\PaymentDto.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\DTOs\\PaymentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Title": "20241018220302_SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018220302_SeedRoles.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Migrations\\20241018220302_SeedRoles.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018220302_SeedRoles.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Migrations\\20241018220302_SeedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:32:29.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T22:03:03.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:05:12.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:53:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:05:15.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\DTOs\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\DTOs\\OrderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:32:15.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\DTOs\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\DTOs\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:32:06.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Persistence\\Concretes\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\OrderRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Persistence\\Concretes\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:28:46.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Abstraction\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Abstraction\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:28:35.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrderDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Context\\OrderDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Persistence\\Context\\OrderDbContext.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Context\\OrderDbContext.cs",
-              "RelativeToolTip": "Services\\Order\\Persistence\\Context\\OrderDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:12:06.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Persistence\\Concretes\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\WriteRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Persistence\\Concretes\\WriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:11:10.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Persistence\\Concretes\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Concretes\\ReadRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Persistence\\Concretes\\ReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:10:57.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:09:57.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Abstraction\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Abstraction\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:09:42.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
-              "RelativeToolTip": "Services\\Order\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:10:11.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Application",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Services\\Order\\Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj",
-              "RelativeToolTip": "Services\\Order\\Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T20:55:26.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Domain\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\Order.cs",
-              "RelativeToolTip": "Services\\Order\\Domain\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:08:13.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Domain\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Services\\Order\\Domain\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:08:01.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Domain\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\Payment.cs",
-              "RelativeToolTip": "Services\\Order\\Domain\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:07:49.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Domain\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Services\\Order\\Domain\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:07:38.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "20241016202911_InitalCreate.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs",
-              "RelativeToolTip": "Services\\Catalog\\Persistence\\Migrations\\20241016202911_InitalCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:29:11.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:26:57.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Domain\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Services\\Catalog\\Domain\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:25:30.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Domain\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\Brand.cs",
-              "RelativeToolTip": "Services\\Catalog\\Domain\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:25:13.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\BrandService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\BrandService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\BrandService.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\BrandService.cs",
+              "Title": "20241018215647_init.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018215647_init.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Migrations\\20241018215647_init.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Migrations\\20241018215647_init.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Migrations\\20241018215647_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:21:04.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:56:47.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\GlobalUsings.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:20:18.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:48:55.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IBrandService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\Services\\IBrandService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\Abstraction\\Services\\IBrandService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\Services\\IBrandService.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\Abstraction\\Services\\IBrandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Validations\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Validations\\LoginDtoValidator.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Validations\\LoginDtoValidator.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Validations\\LoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:20:16.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:47:29.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Validations\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Validations\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Validations\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Validations\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:11:32.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:47:08.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\LoginAPI\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Login\\LoginAPI\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "Services\\Login\\LoginAPI\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:09:56.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T20:09:52.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:09:51.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Code\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:09:50.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T21:45:33.813Z"
             }
           ]
         },
